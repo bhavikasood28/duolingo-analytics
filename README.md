@@ -38,7 +38,7 @@ The project is fully interactive through a **Streamlit dashboard**.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ├── app.py # Main Streamlit app
 ├── 1_Funnel_Analysis.py
 ├── 2_Retention_Analysis.py
@@ -51,7 +51,7 @@ The project is fully interactive through a **Streamlit dashboard**.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 A synthetic dataset containing:
 
@@ -66,7 +66,7 @@ The dataset mimics typical activity patterns in mobile learning apps.
 
 ---
 
-## 🔍 Key Insights (High-Level)
+## Key Insights
 
 - Onboarding has the **largest drop-off (~41%)**
 - Lesson completion is strong *once users start learning*
