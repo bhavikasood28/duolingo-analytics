@@ -39,13 +39,13 @@ The project is fully interactive through a **Streamlit dashboard**.
 ---
 
 ## Project Structure
-├── app.py # Main Streamlit app <br>
-├── 1_Funnel_Analysis.py
-├── 2_Retention_Analysis.py
-├── 3_Engagement_Metrics.py
-├── 4_AB_Test_Simulator.py
-├── 5_User_Segmentation.py
-├── synthetic_duolingo_events_500k.csv
+├── app.py # Main Streamlit app<br>
+├── 1_Funnel_Analysis.py<br>
+├── 2_Retention_Analysis.py<br>
+├── 3_Engagement_Metrics.py<br>
+├── 4_AB_Test_Simulator.py<br>
+├── 5_User_Segmentation.py<br>
+├── synthetic_duolingo_events_500k.csv<br>
 └── README.md
 
 
