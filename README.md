@@ -39,7 +39,7 @@ The project is fully interactive through a **Streamlit dashboard**.
 ---
 
 ## Project Structure
-├── app.py # Main Streamlit app
+├── app.py # Main Streamlit app <br>
 ├── 1_Funnel_Analysis.py
 ├── 2_Retention_Analysis.py
 ├── 3_Engagement_Metrics.py
